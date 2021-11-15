@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+    background-color: wheat;
+}
+
+h1 {
+    background-color: chocolate;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+li {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: palevioletred;
+    font-size: 25px;
+}
+
+a {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

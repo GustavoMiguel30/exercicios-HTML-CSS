@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+.cor__fundo {
+    background-image: linear-gradient(to left, #66A663, #2975D9, #599DD9);
+    height: auto;
+    width: auto;
+    background-attachment: fixed; /*Fixa o degradê na tela inteira*/
+    margin: 0px;
+}
+
+.titulo__principal {
+    background-color: #D9304F;
+    color: white;
+    text-align: center;
+    font-style: oblique;
+    font-variant: small-caps;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+   
+}
+
+.titulo__nivel3 {
+    text-align: center;  /* Centraliza o texto */
+    text-transform: uppercase;   /* Coloca as letras em maiusculas */
+    font: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif 20px oblique;  /* Tipo, tamanho, estilo*/
+    color: white;
+    background-color: black;
+    width: 300px;
+    margin: auto;
+    border: black;
+    padding: 10px;
+    
+    
+    
+}
+
+.paragrafo {
+    text-align: center;  /* Centraliza o texto */
+    
+}
+
+.icone__voltar{
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-bottom: -5%;
+    
+    width: 40px; /* Tamanho do icone */
+    
+    
+}
+
+.video {
+    width: 660px;  /* tamanho do video */
+    height: 300px;
+    margin-left: 350px;  /* Posição do video */ 
+    margin-right: 350px;
+    border-radius: 25px;
+}
+
+.imagem__paginaPrincipal {
+    width: 400px;  /* tamanho da imagem */ 
+    height: 250px;
+    border-radius: 25px;
+}
+
+.titulo__nivel3:hover {
+    color: white;
+    background-color: red;
+}
+
+a:link {
+    text-decoration: none;
+}
+
